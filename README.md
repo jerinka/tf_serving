@@ -1,6 +1,6 @@
 - [Link](https://neptune.ai/blog/how-to-serve-machine-learning-models-with-tensorflow-serving-and-docker)
 
-## This application uses [TensorFlow Serving](https://www.tensorflow.org/tfx/guide/serving) to serve an image classifier model 
+### This application uses [TensorFlow Serving](https://www.tensorflow.org/tfx/guide/serving) to serve an image classifier model 
 
 -----------
 To run this application, clone the repo:
@@ -35,4 +35,4 @@ To make predictions, send HTTP request to server from another terminal.
 
 **Extra:**
 
-To retrain the model, run the `python model.py`
+To retrain the model, run the `python train.py`
