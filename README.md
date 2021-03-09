@@ -1,13 +1,13 @@
 - [Link](https://neptune.ai/blog/how-to-serve-machine-learning-models-with-tensorflow-serving-and-docker)
 
-### This application uses [TensorFlow Serving](https://www.tensorflow.org/tfx/guide/serving) to serve an image classifier model 
+####  [TensorFlow Serving](https://www.tensorflow.org/tfx/guide/serving) to serve an image classifier model 
 
------------
+
 To run this application, clone the repo:
 
 ```bash
- git clone https://github.com/risenW/tensorflow_serving_app.git
- cd tensorflow_serving_app
+ git clone https://github.com/jerinka/tf_serving.git
+ cd tf_serving
  pip install -r requirements.txt
 ```
 
